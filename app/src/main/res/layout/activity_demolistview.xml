@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tw.com.frankchang.houli.classno_16_demolistview.DemoListViewActivity"
+    android:orientation="vertical"
+    android:padding="@dimen/xml_padding">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/xml_setdatatolistview1"
+        android:textSize="@dimen/xml_textSize"
+        android:layout_marginBottom="@dimen/xml_layout_marginBottom"
+        android:onClick="listview1OnClick"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/xml_setdatatolistview2"
+        android:textSize="@dimen/xml_textSize"
+        android:layout_marginBottom="@dimen/xml_layout_marginBottom"
+        android:onClick="listview2OnClick"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/xml_setdatatolistview3"
+        android:textSize="@dimen/xml_textSize"
+        android:onClick="listview3OnClick"/>
+</LinearLayout>

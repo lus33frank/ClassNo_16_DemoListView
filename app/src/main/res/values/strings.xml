@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">No:16_DemoListView</string>
+    <string name="xml_setdatatolistview1">setDataToListView1(單一資料)</string>
+    <string name="xml_setdatatolistview2">setDataToListView2(多欄資料)</string>
+    <string name="xml_setdatatolistview3">setDataToListView3(自訂畫面)</string>
+
+    <string-array name="mStrings">
+        <item>01.大餅包小餅</item>
+        <item>02.蚵仔煎</item>
+        <item>03.東山鴨頭</item>
+        <item>04.臭豆腐</item>
+        <item>05.潤餅</item>
+        <item>06.豆花</item>
+        <item>07.青蛙下蛋</item>
+        <item>08.豬血糕</item>
+        <item>09.大腸包小腸</item>
+        <item>10.鹹水雞</item>
+        <item>11.烤香腸</item>
+        <item>12.車輪餅</item>
+        <item>13.珍珠奶茶</item>
+        <item>14.鹹酥雞</item>
+        <item>15.大熱狗</item>
+        <item>16.炸雞排</item>
+        <item>17.山豬肉</item>
+        <item>18.花生冰</item>
+        <item>19.剉冰</item>
+        <item>20.水果冰</item>
+        <item>21.包心粉圓</item>
+        <item>22.排骨酥</item>
+        <item>23.沙茶魷魚</item>
+        <item>24.章魚燒</item>
+        <item>25.度小月</item>
+    </string-array>
+
+    <string-array name="mPlaces">
+        <item>台北市</item>
+        <item>新北市</item>
+        <item>台南市</item>
+        <item>高雄市</item>
+        <item>苗粟縣</item>
+        <item>台北市</item>
+        <item>新北市</item>
+        <item>台南市</item>
+        <item>高雄市</item>
+        <item>苗粟縣</item>
+        <item>台北市</item>
+        <item>新北市</item>
+        <item>台南市</item>
+        <item>高雄市</item>
+        <item>苗粟縣</item>
+        <item>台北市</item>
+        <item>新北市</item>
+        <item>台南市</item>
+        <item>高雄市</item>
+        <item>苗粟縣</item>
+        <item>台北市</item>
+        <item>新北市</item>
+        <item>台南市</item>
+        <item>高雄市</item>
+        <item>苗粟縣</item>
+    </string-array>
+</resources>
